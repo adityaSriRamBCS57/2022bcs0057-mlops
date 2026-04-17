@@ -8,7 +8,7 @@ on:
 env:
   ROLL_NO: 2022BCS0057
   STUDENT_NAME: "Aditya Sri Ram"
-  DOCKER_IMAGE: adityasr57/2022BCS0057-mlops
+  DOCKER_IMAGE: adityasr57/2022bcs0057-mlops
 
 jobs:
   mlops-pipeline:
