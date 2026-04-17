@@ -56,7 +56,7 @@ jobs:
           python train.py
 
       - name: Upload MLflow DB as Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: mlflow-results
           path: |
