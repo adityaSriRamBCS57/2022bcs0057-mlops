@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+mlflow.db
+mlruns/
+models/*.pkl
+*.egg-info/
+.dvc/tmp/
+.dvc/cache/

@@ -1,0 +1,4 @@
+[core]
+    remote = myS3
+[remote "myS3"]
+    url = s3://2022bcs0057-mlops-bucket/dvc-store
